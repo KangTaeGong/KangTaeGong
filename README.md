@@ -2,7 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90&desc=SangMin's%20Github%20Profile&descSize=20&descAlignY=65&descAlign=59" />
   
-  <h3>📊 My Github Stats</h3>
+  <h2>📊 My Github Stats</h2>
   
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=KangTaeGong&show_icons=true&theme=tokyonight" /> 
@@ -15,7 +15,7 @@
   
   <br>
 
-<h3>📗 Tech Stack</h3>
+<h2>📗 Tech Stack</h2>
 <p>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -30,7 +30,7 @@
   
   <br>
   
-<h3>📘 Tools</h3>
+<h2>📘 Tools</h2>
 <p>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -43,8 +43,16 @@
   
 <h2>📬 Contacts</h2>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kangtaegong.github.io/)](https://kangtaegong.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smlee8577@gmail.com)](mailto:smlee8577@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:smlee8577@naver.com)](mailto:smlee8577@naver.com)
+  <a href="https://kangtaegong.github.io/">
+    <img src="https://img.shields.io/badge/Tech Blog-000000?style=for-the-badge&logo=Github&logoColor=white">
+  </a>
+  
+  <a href="mailto:smlee8577@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
+  
+  <a href="mailto:smlee8577@naver.com">
+    <img src="https://img.shields.io/badge/Naver-32CD32?style=for-the-badge&logo=Naver&logoColor=white">
+  </a>
 
 </div>
