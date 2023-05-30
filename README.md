@@ -55,4 +55,6 @@
     <img src="https://img.shields.io/badge/Naver-32CD32?style=for-the-badge&logo=Naver&logoColor=white">
   </a>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+  
 </div>
