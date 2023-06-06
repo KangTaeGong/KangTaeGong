@@ -10,8 +10,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangTaeGong&layout=compact&theme=tokyonight"/>
 </a>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
   
   <br>
 
