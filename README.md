@@ -5,7 +5,8 @@
   <h2>📊 My Github Stats</h2>
   
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=KangTaeGong&show_icons=true&theme=tokyonight" /> 
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KangTaeGong&theme=tokyonight)](https://git.io/streak-stats)
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangTaeGong&layout=compact&theme=tokyonight"/>
